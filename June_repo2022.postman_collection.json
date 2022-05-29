@@ -1,0 +1,40 @@
+{
+	"info": {
+		"_postman_id": "605876c3-37e5-448e-9167-5e339571345c",
+		"name": "June_repo2022",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "18756796"
+	},
+	"item": [
+		{
+			"name": "June_repo2022Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    Test\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "www.qa.taltektc.com/api/signup",
+					"host": [
+						"www",
+						"qa",
+						"taltektc",
+						"com"
+					],
+					"path": [
+						"api",
+						"signup"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
